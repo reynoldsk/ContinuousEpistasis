@@ -1,0 +1,10 @@
+210401:gDNA,hcaT,folA
+210603:gDNA,hcaT,dapA
+210427:gDNA,hcaT,glyA
+210704:gDNA,hcaT,gdhA,gltB
+210708:gDNA,hcaT,purL,purN
+210716:gDNA,hcaT,gltB,thyA
+210719:gDNA,hcaT,glyA,purN,thyA
+210910:gDNA,hcaT,thyA,purL,gltB,purN
+211210:gDNA,hcaT,dapB
+211215:gDNA,hcaT,dapB

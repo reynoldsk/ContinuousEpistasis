@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name=pairwise_lib
+#SBATCH --partition=super
+#SBATCH --nodes=1
+#SBATCH --time=05-00:00:00
+#SBATCH --output=pairwise_lib.%j.out
+#SBATCH --error=pairwise_lib.%j.err
+python step2_code.py $1
+
+
+
+
+#in command line type: for x in *_input.txt; do echo "bash runPython $x" ;done

@@ -1,0 +1,6 @@
+store_fastq/t1-T0
+store_fastq/t1-T2
+store_fastq/t1-T4
+store_fastq/t1-T6
+store_fastq/t1-T8
+store_fastq/t1-T10
