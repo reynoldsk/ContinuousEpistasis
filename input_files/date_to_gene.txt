@@ -8,3 +8,4 @@
 210910:gDNA,hcaT,thyA,purL,gltB,purN
 211210:gDNA,hcaT,dapB
 211215:gDNA,hcaT,dapB
+230303:gDNA,hcaT,folA
