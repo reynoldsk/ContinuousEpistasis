@@ -1,0 +1,13 @@
+# File stopping git from storing everything in this repo
+
+# Don't commit figure panels
+/Figures/*
+
+# Don't commit data files that can be generated locally by the notebooks
+/intermediate_files/*
+
+# Folder automatically created by .py script
+/pycache__/
+
+# Previous Jupiter Notebook checkpoints
+/.ipynb_checkpoints/

@@ -1,5 +1,6 @@
 READMEWritten 8/8/22 by Ryan Otto
 Updated 4/20/23 by Ryan Otto
+Updated 10/12/23 by Ryan Otto
 #########################################################################################################################
 The following files are all data input used in this publication.
 
@@ -18,6 +19,9 @@ env_norm_ind_GR_B.pickle			File containing normalized replicate growth rates of 
 env_raw_GR_A.pickle				File containing raw mean growth rates of E. coli in various media 							conditions (part 1).
 env_raw_GR_B.pickle				File containing raw mean growth rates of E. coli in various media 							conditions (part 2).
 no_filter_counts/				Pairwise CRISPRi sgRNA counts before filtering.
+pairwise_SID_ecoli.pickle			File containing pairwise sequence identity distributions between all 							Enterobacterales species with orthologs to the 19 genes tested in the 							pathway CRISPRi experiment.
+pathway_counts/					Folder containing all NGS counts for the pathway CRISPRi experiment.
+pathway_lib.fasta				File containing sgRNA sequences for all sgRNAs in the pathway CRISPRi 							experiment.
 optimization_files/				Files generated beforehand used to optimize subsampling percentage and 							regularization of the continuous epistasis model.
 q30_filter/					Pairwise CRISPRi sgRNA counts after filtering.
 qPCR/						Folder containing all qPCR results.
