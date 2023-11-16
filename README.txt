@@ -1,6 +1,7 @@
 READMEWritten 8/8/22 by Ryan Otto
 Updated 5/1/23 by Ryan Otto
 Updated 10/12/23 by Ryan Otto
+Updated 11/16/23 by Ryan Otto
 #####################################################################################################
 The following code was used to perform all analysis and generate all figures in:
 
@@ -28,6 +29,8 @@ pairGrowthRates				Outputs pairwise growth rate predictions based on a pair of 	
 solveReff				Called by pairGrowthRates, this function numerically solves 					the system of equations introduced in Zimmer et al. 2016 					(Equation 3 in Otto et al. 2023).
 
 calc_pair_gr				Once coupling constants are solved, this function can be used 					to recreate pairwise landscapes based on perturbation 						intensities and coupling constants.
+#####################################################################################################
+For those looking for machine-readable growth rate and [mRNA] measurements following CRISPRi, download Supplementary_Tables.xlsx (in this directory). This file contains all qPCR data (Table S1) and all growth rate measurements (Tables Extra 1 - Extra 4) from the initial pairwise CRISPRi screen (Extra 1), the pathway CRISPRi screen (Extra 2), the third-order CRISPRi screen (Extra 3), and the gene-by-environment screen (Extra 4).
 #####################################################################################################
 Contents:
 
